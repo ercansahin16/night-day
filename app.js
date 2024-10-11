@@ -1,17 +1,4 @@
 
-
-
-// console.log(buton)
-// console.log(buton.id)
-// console.log(buton.className)
-
-
-// console.log(buton.classList)
-// const clastlistt=buton.classList
-// clastlistt.forEach((className)=>{
-//     console.log(className)
-// });
-// console.log(clastlistt[1])
 let changeText=()=>{
     var buton=document.getElementById("butons")
     var tema=document.getElementById("tema")
